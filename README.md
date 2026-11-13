@@ -75,7 +75,7 @@ A desktop-based hotel management application built with a graphical interface an
 - Housekeeping status
 - Expense tracking and analytics
 
-**Repository:** [https://github.com/Chaitanay-09/python-project-sem-2.git](HOTEL_PROJECT_REPOSITORY_URL)
+**Repository:** [[(https://github.com/Chaitanay-09/python-project-sem-2)](HOTEL_PROJECT_REPOSITORY_URL)
 
 ### 💻 C Programming
 A collection of C programming practice and coursework.
